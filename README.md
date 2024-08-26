@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suboda Dabarera</h1>
-<h3 align="center">A passionate full stack developer from Italy</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Finance domain web application and NYPD report generation project**
-
-- 🌱 I’m currently learning **Next.js, Docker, Redis**
+- 🔭 I’m currently working on **Finance domain web application and NYPD report automation project**
 
 - 📫 How to reach me **Subodadabarera99@gmail.com**
 
