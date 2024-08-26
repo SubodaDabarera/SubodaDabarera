@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **Subodadabarera99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RyOAZlfRaQkMnP_ZEqoaxYxt11eJ9gGL/view?usp=sharing](https://drive.google.com/file/d/1RyOAZlfRaQkMnP_ZEqoaxYxt11eJ9gGL/view?usp=sharing)
-
 <p align="left">
 </p>
 
