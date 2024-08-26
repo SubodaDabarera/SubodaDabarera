@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suboda Dabarera</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Finance domain web application and NYPD report automation project**
+- 🔭 I’m currently working on a **finance domain web application and an NYPD report automation project**
 
 - 📫 How to reach me **Subodadabarera99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
